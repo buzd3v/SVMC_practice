@@ -1,3 +1,0 @@
-C:/Users/NEIK_PC/Desktop/SVMC/build/CMakeFiles/dsa.dir
-C:/Users/NEIK_PC/Desktop/SVMC/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/NEIK_PC/Desktop/SVMC/build/CMakeFiles/ZERO_CHECK.dir

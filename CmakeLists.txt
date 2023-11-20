@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.0.0)
+cmake_minimum_required(VERSION 3.7.0)
 
 project(SVMC)
 
-add_executable(dsa c:/Users/NEIK_PC/Desktop/SVMC/String/MAXSYMST.cpp)
+add_executable(dsa e:/SVMC_practice/Array/buildTower.cpp)
